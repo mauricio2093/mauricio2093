@@ -1,16 +1,53 @@
-## Hi there 👋
+# Mauricio Cadena Barona
 
-<!--
-**mauricio2093/mauricio2093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Físico | Full Stack Developer | AI Systems | Automation
 
-Here are some ideas to get you started:
+Actualmente trabajando en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sistema de citas 
+- Automatización con IA
+- Backend PHP y sistemas web
+- Herramientas ADB y automatización Bash scripting
+
+- ---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricio2093&show_icons=true&theme=tokyonight)
+
+---
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio2093&layout=compact&theme=tokyonight)
+
+---
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mauricio2093&theme=tokyonight)
+
+---
+
+## Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![AI](https://img.shields.io/badge/AI-black?style=for-the-badge)
+
+---
+
+## Current Projects
+
+- Booking System
+- AI Automation Tools
+- PHP Backend Systems
+- Web Development and SEO
+
+---
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=mauricio2093&color=blue)
