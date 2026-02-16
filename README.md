@@ -40,11 +40,6 @@ Actualmente trabajando en:
 ![AI](https://img.shields.io/badge/AI-black?style=for-the-badge)
 
 ---
-## Metrics
-
-![Metrics](https://github.com/mauricio2093/github-metrics/blob/main/github-metrics.svg)
-
----
 
 ## Current Projects
 
