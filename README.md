@@ -13,13 +13,15 @@ Actualmente trabajando en:
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricio2093&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricio2093&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
 
 ---
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio2093&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio2093&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 
 ---
 
