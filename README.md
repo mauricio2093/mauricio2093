@@ -41,6 +41,10 @@ Actualmente trabajando en:
 
 ---
 
+![Metrics](https://github.com/mauricio2093/github-metrics/blob/main/metrics.svg)
+
+---
+
 ## Current Projects
 
 - Booking System
