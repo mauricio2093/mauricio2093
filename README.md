@@ -1,6 +1,6 @@
 <div align="center">
   
-# Mauricio Cadena Barona
+<h1>Mauricio Cadena Barona</h1>
 
 ### Ingeniero Físico | Full Stack Developer | AI Systems | Automation
 
