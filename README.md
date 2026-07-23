@@ -36,7 +36,7 @@ Actualmente trabajando en:
 
 ### Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mauricio2093&theme=github-compact&color=00b4d8)](https://github.com/mauricio2093)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mauricio2093&theme=github-compact&line=00b4d8&area=true)](https://github.com/mauricio2093)
 
 ---
 ### Skills
