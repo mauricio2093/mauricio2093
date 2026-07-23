@@ -5,11 +5,11 @@
 ### Ingeniero Físico | Full Stack Developer | AI Systems | Automation
 
 Actualmente trabajando en:
-<p>
-  • Sistema de citas<br>
-  • Automatización con IA<br>
-  • Backend PHP y sistemas web<br>
-  • Herramientas ADB y automatización Bash scripting
+<p style="display: inline-block; text-align: center;">
+  - Sistema de citas<br>
+  - Automatización con IA<br>
+  - Backend PHP y sistemas web<br>
+  - Herramientas ADB y automatización Bash scripting
 </p>
 
 ---
@@ -56,12 +56,12 @@ Actualmente trabajando en:
 
 ## Current Projects
 
-<ul style="display: inline-block; text-align: center;">
-  <li>Booking System</li>
-  <li>AI Automation Tools</li>
-  <li>PHP Backend Systems</li>
-  <li>Web Development and SEO</li>
-</ul>
+<p style="display: inline-block; text-align: center;">
+  - Booking System<br>
+  - AI Automation Tools<br>
+  - PHP Backend Systems<br>
+  - Web Development and SEO
+</p>
 
 ---
 
