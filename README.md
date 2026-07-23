@@ -1,16 +1,16 @@
 <div align="center">
+  
 # Mauricio Cadena Barona
 
-Ingeniero Físico | Full Stack Developer | AI Systems | Automation
+### Ingeniero Físico | Full Stack Developer | AI Systems | Automation
 
 Actualmente trabajando en:
-
 - Sistema de citas 
 - Automatización con IA
 - Backend PHP y sistemas web
 - Herramientas ADB y automatización Bash scripting
 
-- ---
+---
 
 ## GitHub Stats
 
@@ -34,7 +34,7 @@ Actualmente trabajando en:
 
 ### Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mauricio2093&theme=github-compact)](https://github.com/mauricio2093)
 
 ---
 ### Skills
@@ -64,4 +64,5 @@ Actualmente trabajando en:
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mauricio2093&color=blue)
+
 </div>
