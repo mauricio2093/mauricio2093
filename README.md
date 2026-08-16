@@ -14,9 +14,8 @@ Actualmente trabajando en:
 
 ---
 
-## GitHub Stats 
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats-ayvh991s9-mauriciocadena2093-7851s-projects.vercel.app/api?username=mauricio2093&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
 
 ---
 
