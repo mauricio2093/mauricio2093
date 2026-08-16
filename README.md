@@ -20,7 +20,7 @@ Actualmente trabajando en:
 ---
 
 ## Top Languages
-![Top Langs](https://github-readme-stats-ayvh991s9-mauriciocadena2093-7851s-projects.vercel.app/api/top-langs/?username=mauricio2093&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats-ayvh991s9-mauriciocadena2093-7851s-projects.vercel.app/api/top-langs?username=mauricio2093&layout=compact&theme=tokyonight&langs_count=8)
 
 
 ---
