@@ -15,12 +15,12 @@ Actualmente trabajando en:
 ---
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats-ayvh991s9-mauriciocadena2093-7851s-projects.vercel.app/api?username=mauricio2093&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats-xi-nine-ywzhgi1267.vercel.app/api?username=mauricio2093&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ---
 
 ## Top Languages
-![Top Langs](https://github-readme-stats-ayvh991s9-mauriciocadena2093-7851s-projects.vercel.app/api/top-langs?username=mauricio2093&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats-xi-nine-ywzhgi1267.vercel.app/api/top-langs?username=mauricio2093&layout=compact&theme=tokyonight&langs_count=8)
 
 
 ---
