@@ -32,7 +32,7 @@ Actualmente trabajando en:
 
 ## Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mauricio2093&theme=react-dark&hide_border=true)](https://github.com/mauricio2093)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 ### Skills
