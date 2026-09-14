@@ -26,14 +26,12 @@ Actualmente trabajando en:
 ---
 
 ## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mauricio2093&theme=tokyonight)
+[![GitHub Streak](https://git-streak-stats.herokuapp.com/?user=mauricio2093&theme=tokyonight)](https://github.com/mauricio2093)
 
 ---
 
 ### Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mauricio2093&theme=react-dark)](https://github.com/mauricio2093)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mauricio2093&theme=tokyonight)](https://github.com/mauricio2093)
 
 ---
 ### Skills
